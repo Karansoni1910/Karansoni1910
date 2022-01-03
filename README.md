@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Karansoni1910/Karansoni1910/blob/main/Developer.gif" width="300px">
+  <img src="https://github.com/Karansoni1910/Karansoni1910/blob/main/Developer.gif" width="500px">
 </p>
 
 ### Hi Everyone, I am Karan Soni, just another Programmer here ! <img src="https://github.com/Karansoni1910/Karansoni1910/blob/main/Developer.gif" width="40px">
