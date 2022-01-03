@@ -23,8 +23,8 @@
 ### :zap: Most used languages ❤️
 <p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Karansoni1910&layout=compact&hide=html&theme=dracula&hide_border=true" style="width:70%"><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karansoni1910&theme=dracula" alt=""><br>
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most -commit-language?username=Karansoni1910&theme=dracula" alt="">
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karansoni1910&theme=dracula"><br>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most -commit-language?username=Karansoni1910&theme=dracula">
 </a>
 </p>
 
