@@ -14,14 +14,14 @@
 
 
 ### :zap: GitHub Trophies 🏆
-<p align="center">
+<p align="center" style="width:90%">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=Karansoni1910&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
   </a>
 </p> 
 
 ### :zap: Most used languages ❤️
-<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Karansoni1910&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
+<p align="center" style="width:90%">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Karansoni1910&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karansoni1910&theme=dracula" alt=""><br>
     <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karansoni1910&theme=dracula">
@@ -29,7 +29,7 @@
 </p>
 
 ### :zap: GitHub Stats
-<p align="center">&nbsp;
+<p align="center" style="width:90%">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Karansoni1910&show_icons=true&hide_border=true&show_owner=true&title_color=FF00FF&theme=dark&custom_title=Hello Programiz! &layout=compact" /><br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Karansoni1910&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karansoni1910&theme=monokai" />
