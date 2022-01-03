@@ -21,10 +21,10 @@
 </p> 
 
 ### :zap: Most used languages ❤️
-<p align="center" style="width:90%">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Karansoni1910&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
+<p align="center" style="width:90%">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Karansoni1910&layout=compact&hide=html&theme=dracula&hide_border=true" style="width:90%"><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karansoni1910&theme=dracula" alt=""><br>
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karansoni1910&theme=dracula">
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karansoni1910&theme=dracula" style="width:90%" alt=""><br>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most -commit-language?username=Karansoni1910&theme=dracula" style="width:90%" alt="">
 </a>
 </p>
 
