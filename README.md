@@ -25,6 +25,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karansoni1910&theme=github-dark&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Karansoni1910&theme=github_dark&column=8&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+</p>
+
 ---
 
 ## 🎯 About Me — Who I Am
@@ -146,7 +151,7 @@
 
 ---
 
-## 🛠️ Technical Skills & Expertise — What I Know
+### 🛠️ **Technical Skills & Expertise**
 
 ### 💻 **Languages & Core Programming**
 ```
@@ -155,100 +160,51 @@ JavaScript (ES6+, TypeScript) | Java | Python | C/C++ | SQL | HTML5/CSS3 | Bash
 
 ### 🎨 **Frontend Development**
 ```
-React.js • Redux (RTK/Saga) • Material-UI
-React Native • WebSockets • WebWorkers • Service Workers
-Performance Optimization • Lazy Loading • Code Splitting • Browser APIs
+React.js • Redux (RTK/Saga) • Material-UI • Vue.js
+React Native • WebSockets • Performance Optimization • Browser APIs
 ```
 
 ### ⚙️ **Backend & Microservices**
 ```
-Spring Boot • REST APIs • Microservices Architecture
-Python FastAPI • Node.js • Express.js • Async Programming
+Spring Boot • REST APIs • Microservices Architecture • Node.js • Express.js
 SOLID Principles • Design Patterns • Event-Driven Architecture
 ```
 
 ### ☁️ **Cloud & Infrastructure**
 ```
-AWS: EC2 • S3 • Lambda • API Gateway • DynamoDB • SES • Cognito • CDK
-Kubernetes (K8s) • Docker • Docker Compose • Container Orchestration
-Infrastructure as Code (IaC) • CloudFormation
+AWS: EC2 • S3 • Lambda • API Gateway • RDS • DynamoDB • Cognito • CDK
+Kubernetes (K8s) • Docker • Infrastructure as Code (IaC) • CloudFormation
 ```
 
 ### 🚀 **DevOps & CI/CD**
 ```
-Jenkins • GitHub Actions • GitLab CI • AWS CodePipeline • AWS CodeBuild
+Jenkins • GitHub Actions • GitLab CI • AWS CodePipeline
 CI/CD Pipelines • Automated Testing • Blue-Green Deployments
-Infrastructure as Code (IaC) • Configuration Management
 ```
 
 ### 🗄️ **Databases & Data**
 ```
-PostgreSQL • MongoDB • Redis • DynamoDB
-Connection Pooling • Query Optimization • Data Modeling
-Indexing Strategies • Database Performance Tuning
+PostgreSQL • MongoDB • Redis • DynamoDB • MySQL
+Query Optimization • Data Modeling • Performance Tuning
 ```
 
 ### 🧪 **Testing & Quality Assurance**
 ```
 Jest • JUnit • Testcontainers • Mockito • Selenium
-Unit Testing • Integration Testing • End-to-End Testing
-Test-Driven Development (TDD) • Browser Compatibility Testing
+Unit Testing • Integration Testing • TDD
 ```
 
 ### 🤖 **AI/ML & Advanced Technologies**
 ```
-LLM Integration (Ollama, LangChain4j, OpenAI APIs) • RAG Frameworks
-Vector Databases (pgvector) • Prompt Engineering
-Scikit-Learn • TensorFlow • Model Optimization
+LLM Integration (Ollama, LangChain4j) • RAG Frameworks • pgvector
+Scikit-Learn • TensorFlow • Prompt Engineering
 ```
 
 ### 🎯 **Architecture & Core Concepts**
 ```
-System Design • Microservices Architecture • Scalability & Load Balancing
-Design Patterns (Singleton, Factory, Observer, Strategy) • Clean Architecture
-Data Structures & Algorithms • Computer Networks (TCP/IP) • OSI Model
-3GPP Specifications • Telecommunications Protocols • Multi-threaded Programming
-Caching Strategies (LRU, TTL) • Markov Models • API Design
-```
-Python FastAPI • Node.js • Express.js
-```
-
-### ☁️ **Cloud & Infrastructure**
-```
-AWS: Cognito • Lambda • SES • API Gateway • S3 • CDK • CloudFormation
-Kubernetes • Docker • Docker Compose
-```
-
-### 🚀 **DevOps & CI/CD**
-```
-Jenkins • GitHub Actions • AWS CDK • Infrastructure as Code (IaC)
-Automated Testing • CI/CD Pipelines
-```
-
-### 🗄️ **Databases & Data**
-```
-MySQL • MongoDB • Redis
-Connection Pooling • Query Optimization • Data Modeling
-```
-
-### 🧪 **Testing & Quality Assurance**
-```
-Jest • JUnit • Testcontainers • Unit Testing • Integration Testing
-Browser Compatibility Testing • Test-Driven Development (TDD)
-```
-
-### 🤖 **AI/ML & Advanced Technologies**
-```
-RAG Frameworks • MCP Servers • Agentic workflows
-Scikit-Learn • TensorFlow
-```
-
-### 🎯 **Core Concepts & Specializations**
-```
-System Design • Microservices Architecture • Design Patterns
-Data Structures & Algorithms • Computer Networks (TCP/IP)
-Telecommunications (3GPP) • Multi-threaded Programming
-Caching Strategies • Markov Prediction Models
+System Design • Microservices • Scalability • Load Balancing
+Design Patterns • Data Structures & Algorithms • Computer Networks (TCP/IP)
+3GPP Specifications • Multi-threaded Programming • Caching Strategies
 ```
 
 ---
