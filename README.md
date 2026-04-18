@@ -385,6 +385,23 @@ Full-featured todo application with persistent storage and task management. Loca
 
 ---
 
+## 📚 Learning & Development
+
+### 🏗️ **Low-Level Design (LLD) Repository**
+
+Comprehensive collection of Low-Level Design patterns, principles, and implementations. This repository showcases my deep understanding of object-oriented programming, design patterns, and software architecture fundamentals.
+
+**Topics Covered:**
+- 🔍 **OOP Fundamentals:** Abstraction, Encapsulation, Inheritance, Interfaces, Enums
+- 🎯 **Design Principles:** SOLID principles, Clean Architecture, Best practices
+- 💡 **Practical Implementations:** Real-world code examples and design patterns
+
+**Why it matters:** Strong LLD fundamentals are crucial for writing scalable, maintainable code and acing system design interviews.
+
+[Explore LLD Repository](https://github.com/Karansoni1910/Low-Level-Design) → Master the foundations! 📖
+
+---
+
 ## 🎯 What I'm Looking For
 
 I'm interested in opportunities where I can:
