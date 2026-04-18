@@ -249,7 +249,7 @@ High-performance applications handling network handover scenarios in multi-threa
 - 📊 **Optimization:** Peak load performance tested and validated under demanding conditions
 - 📈 **Scalability:** Handles millions of concurrent connections without degradation
 
-**Technologies:** C/C++, POSIX Threads, TCP/IP, GDB, Wireshark, Performance Analysis Tools
+**Technologies:** C/C++, Threads, TCP/IP, GDB, Wireshark, Performance Analysis Tools
 
 ---
 
@@ -312,7 +312,45 @@ A responsive, modern portfolio website showcasing technical capabilities with en
 
 ---
 
-## 🏆 Awards & Recognition — Honors
+## � Other Mini Projects
+
+Explore my collection of smaller projects that showcase web development fundamentals and creative implementations:
+
+### 🥁 **Drum Kit** 
+**JavaScript · DOM Manipulation · Event Handling**
+
+Interactive drum kit application with keyboard and mouse controls.
+
+[View on GitHub](https://github.com/Karansoni1910/Drum-Kit) → Star if you like it! ⭐
+
+---
+
+### ⭕ **Tic-Tac-Toe** 
+**JavaScript · Game Logic**
+
+Classic Tic-Tac-Toe game with two player mode.
+
+[View on GitHub](https://github.com/Karansoni1910/Tic-Tac-Toe) → Star if you like it! ⭐
+
+---
+
+### 🎬 **Netflix Clone** 
+**React · CSS · API Integration · Responsive Design**
+
+Modern streaming UI inspired by Netflix with dynamic content display. Movie browsing with API integration
+
+[View on GitHub](https://github.com/Karansoni1910/Netflix-Clone) → Star if you like it! ⭐
+
+---
+
+### ✅ **Todo List** 
+**React · State Management · Local Storage**
+
+Full-featured todo application with persistent storage and task management. Local storage persistence.
+
+[View on GitHub](https://github.com/Karansoni1910/Todolist) → Star if you like it! ⭐
+
+---
 
 ### 🎖️ **Awards & Certifications**
 - ⭐ **Spot Award** (Sep 2025) — Exceptional individual contribution and measurable impact
