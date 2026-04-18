@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/Karansoni1910/Karansoni1910/blob/main/Developer.gif" width="500px">
+  <img src="https://github.com/Karansoni1910/Karansoni1910/blob/main/Developer.gif" width="500px" alt="Developer Animation">
 </p>
 
-# 👋 Hi Everyone! I'm **Karan Soni** — Full Stack Software Engineer & Tech Innovator <img src="https://github.com/Karansoni1910/Karansoni1910/blob/main/Developer.gif" width="40px">
+# 👋 Hi Everyone! I'm **Karan Soni** — Senior Full Stack Software Engineer & Tech Innovator
 
 > **Senior Full Stack Software Engineer** | React · Spring Boot · Java · AWS · Cloud Infrastructure | **3.5+ years @ Samsung R&D**
 
@@ -11,6 +11,24 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karansoni146.ks@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/karan1910/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/karansoni146ks?tab=activity)
+
+---
+
+## 📊 GitHub Analytics & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karansoni1910&show_icons=true&hide_border=true&title_color=FF00FF&theme=github_dark&show_owner=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karansoni1910&layout=compact&hide=html&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karansoni1910&theme=github-dark&hide_border=true" alt="GitHub Streak" width="60%" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Karansoni1910&column=8&margin-w=15&margin-h=15&theme=github_dark" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -370,6 +388,46 @@ Whether you're interested in:
 - 📚 Mentoring opportunities
 
 **Feel free to reach out! I'm always happy to connect with fellow engineers and innovators.**
+
+---
+
+## 📊 GitHub Stats & Analytics
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Karansoni1910&theme=gruvbox&column=8&margin-w=15&margin-h=15&no-frame=false" alt="GitHub Trophies"/>
+</p>
+
+### 💻 Most Used Languages
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karansoni1910&layout=compact&langs_count=8&theme=gruvbox&hide_border=false" alt="Top Languages"/>
+</p>
+
+### 📈 GitHub Statistics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karansoni1910&show_icons=true&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</p>
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karansoni1910&theme=gruvbox&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+### 📊 GitHub Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karansoni1910&theme=gruvbox" alt="Profile Summary"/>
+</p>
+
+---
+
+## 🎯 Quick GitHub Stats
+- 📊 **Total Contributions:** 1000+
+- 🎓 **Public Repositories:** 20+
+- ⭐ **Stars Received:** 150+
+- 👥 **GitHub Followers:** Growing community
+- 🏅 **Consistent Contributor** throughout the year
+
+---
 
 ---ter">
   <img src="https://github.com/Karansoni1910/Karansoni1910/blob/main/Developer.gif" width="500px">
