@@ -184,7 +184,7 @@ CI/CD Pipelines • Automated Testing • Blue-Green Deployments
 
 ### 🗄️ **Databases & Data**
 ```
-PostgreSQL • MongoDB • Redis • DynamoDB • MySQL
+MySQL • MongoDB • Redis • DynamoDB
 Query Optimization • Data Modeling • Performance Tuning
 ```
 
@@ -196,7 +196,7 @@ Unit Testing • Integration Testing • TDD
 
 ### 🤖 **AI/ML & Advanced Technologies**
 ```
-LLM Integration (Ollama, LangChain4j) • RAG Frameworks • pgvector
+AI Integration • RAG Frameworks • MCP Servers • Agentic workflows
 Scikit-Learn • TensorFlow • Prompt Engineering
 ```
 
@@ -350,59 +350,6 @@ A responsive, modern portfolio website showcasing technical capabilities with en
   - Microprocessors & Microcontrollers
   - Signal Processing & Digital Communications
   - Network Security & Cryptography
-
----
-
-## 🚀 Career Journey — My Evolution
-
-### **Phase 1: Frontend Foundation** (Aug – Oct 2021)
-**Lakshya Technologies | React Frontend Optimization Internship**
-
-Built modern React expertise, mastering performance optimization and component architecture. This early internship shaped my understanding of production-grade frontend engineering and performance metrics.
-
----
-
-### **Phase 2: Backend & Tools Development** (Jan – Jul 2022)
-**Samsung R&D | Software Engineer Intern**
-
-College final year internship contributing to telecommunications R&D, developing critical Python automation tooling. Designed Log Parser tool that reduced debugging time by 30%, adopted by multiple teams organization-wide.
-
----
-
-### **Phase 3: Network Systems Engineering** (Aug 2022 – Apr 2024)
-**Samsung R&D | Software Engineer (Bearer and Modem Control)**
-
-Full-time employment building high-performance C/C++ network transport applications at TCP/IP layer. Deep expertise in telecommunications protocols (3GPP), network optimization (20% latency reduction), and debugging complex network scenarios using GDB.
-
-**Key Achievement:** Reduced network handover latency by 20% and improved throughput by 15% through protocol optimization.
-
----
-
-### **Phase 4: Full Stack & Cloud Platform Transformation** (May 2024 – Present)
-**Samsung R&D | Software Engineer II (SDN Cloud Solutions)**
-
-Promoted to Software Engineer II, transitioned to SDN Cloud team. Architecting complete end-to-end systems combining deep technical knowledge with modern cloud-native practices. Leading $50M+ in annual operational savings through the 5G OS Deployment Portal.
-
-**Key Responsibilities:**
-- Architect full-stack applications from database to UI
-- Lead technical initiatives and mentoring programs
-- Ensure code quality and security standards
-- Drive measurable business impact through optimization
-
----
-
-## 💡 What Makes Me Different
-
-| Dimension | My Strength |
-|-----------|-------------|
-| **Full-Stack Mastery** | Architect complete systems: database schema → business logic → UI components |
-| **Performance Obsession** | Every optimization backed by metrics; 35-40% performance gains demonstrated |
-| **Production Excellence** | Systems serving millions with 99.9%+ uptime under demanding conditions |
-| **Team Leadership** | Mentor 3 engineers while maintaining mandatory PR approver status |
-| **Business Impact** | $50M+ organizational savings through strategic technical decisions |
-| **Rapid Learning** | Master new technologies quickly; adopted LLMs, Kubernetes, AWS CDK rapidly |
-| **Code Quality** | Trusted PR approver ensuring architectural consistency and security standards |
-| **Telecommunications Depth** | 3GPP protocol expertise combined with modern cloud technologies |
 
 ---
 
