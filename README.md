@@ -2,11 +2,10 @@
   <img src="https://github.com/Karansoni1910/Karansoni1910/blob/main/Developer.gif" width="500px" alt="Developer Animation">
 </p>
 
-# 👋 Hi Everyone! I'm **Karan Soni** — Senior Full Stack Software Engineer & Tech Innovator
+# **Karan Soni** — Senior Full Stack Software Engineer
 
 > **Software Engineer II at Samsung R&D** | React · Spring Boot · Java · AWS · Kubernetes | **3.5+ years delivering mission-critical systems**
 
-[![Hello programmer Welcome to my profile ](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Karansoni1910)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-soni-a021b4188/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karansoni146.ks@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/karan1910/)
@@ -25,10 +24,98 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karansoni1910&theme=github-dark&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karansoni1910&theme=github_dark&column=8&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-</p>
+---
+
+## 💼 Professional Experience
+
+### **SAMSUNG R&D INSTITUTE** | Bangalore, India
+
+#### 🌟 **Software Engineer II** — SDN Cloud Solutions & Full Stack Development
+**May 2024 – Present** | End-to-End Full Stack Architecture
+
+**Promotion:** Advanced to Software Engineer II and transitioned to SDN Cloud team to pursue full-stack development.
+
+**Mission:** Led comprehensive design and delivery of a **mission-critical 5G OS deployment portal** serving field engineers globally, architecting a complete full-stack solution from frontend UI through scalable microservices to cloud infrastructure.
+
+**Frontend Excellence:**
+- 🎨 Architected **scalable React/Redux application** with Redux Saga for complex state management
+- 📦 Designed **production-grade browser caching library** improving UI load times by **35%**
+- 🧠 Developed **Markov prediction layers** for intelligent API response prefetching
+- ⚡ Engineered comprehensive performance optimizations (lazy loading, code splitting) achieving **35% TTI reduction**
+- 🔌 Integrated **WebSocket technology** for real-time bidirectional communication
+
+**Backend Mastery:**
+- 🏗️ Designed & delivered **Java/Spring Boot REST APIs** and scalable microservices
+- 🛡️ Architected resilient microservices with exponential-backoff retry logic, rate limiting, and circuit breakers
+- 🐍 Developed **Python REST APIs** with DynamoDB achieving **40% data retrieval efficiency**
+- 📋 Implemented comprehensive API versioning, pagination, and filtering for large-scale operations
+
+**Infrastructure & DevOps:**
+- ☁️ Built **infrastructure-as-code (IaC)** using AWS CDK for scalable cloud provisioning
+- 🚀 Established **robust CI/CD pipelines** (Jenkins + GitHub Actions) cutting release cycles by **40%**
+- 🐳 Orchestrated **containerized microservices** on Kubernetes with structured logging and distributed tracing
+- 🐋 Configured **Docker containerization** with multi-stage builds and security scanning
+
+**Testing & Leadership:**
+- 🧪 Implemented **comprehensive testing frameworks** (Jest, JUnit) with high code coverage
+- ✅ Served as **mandatory PR approver** conducting rigorous code reviews
+- 👨‍🏫 **Mentored 3 junior engineers** in best practices and full-stack development
+- 📊 Established coding standards, security protocols, and performance benchmarks
+
+**Tech Stack:** React, Redux (RTK/Saga), TypeScript, Java, Spring Boot, Python, PostgreSQL, AWS (Cognito, Lambda, RDS, CDK), Kubernetes, Docker, Jenkins, GitHub Actions
+
+---
+
+#### 🔧 **Software Engineer** — Bearer and Modem Control (Transport Protocol Layer)
+**Aug 2022 – Apr 2024** | High-Performance Network Systems
+
+**Mission:** Developed high-performance network transport applications as full-time engineer after college graduation.
+
+**Transport Layer Optimization:**
+- ⚡ Built **high-performance C/C++ transport applications** at TCP/IP layer in multi-threaded architecture
+- 📈 Achieved **20% latency reduction** and **15% throughput improvement** in network handovers
+- 🔍 Debugged complex network issues using GDB, resolving production incidents efficiently
+- 📡 Contributed to core telecommunications stack with **3GPP compliance**
+
+**Internal Tools & Automation:**
+- 🔧 Enhanced **Python-based Log Parser tool** automating issue analysis workflows
+- 📊 Supported 3+ teams adopting the logging infrastructure
+- 📈 Created advanced data visualization dashboards for complex network telemetry
+
+**Tech Stack:** C/C++, Python, TCP/IP, Multi-threaded Programming, GDB, 3GPP Specifications
+
+---
+
+### **SAMSUNG R&D INSTITUTE** | Bangalore, India
+
+#### 🎓 **Software Engineer Intern** — Network Systems & Internal Tools
+**Jan 2022 – Jul 2022** | Backend Development & Automation Tools
+
+**Mission:** Contributed to telecommunications R&D initiatives during college final year internship, developing critical automation tools.
+
+**Key Contributions:**
+- 🛠️ Designed **Python-based Log Parser tool** automating complex issue analysis
+- ⏱️ Reduced debugging time by **30%** with intelligent log correlation
+- 📢 Tool adoption recommended by leadership for **3 additional teams**
+- 📊 Created intuitive data visualization dashboards for complex network telemetry
+- 📚 Gained foundational knowledge in telecommunications domain and network protocols
+
+**Tech Stack:** Python, Data Processing, Analytics, Logging Systems, 3GPP Specifications
+
+---
+
+### **LAKSHYA TECHNOLOGIES** | Remote
+
+#### 🎨 **React Frontend Optimization Internship**
+**Aug 2021 – Oct 2021** | Frontend Development
+
+- 🚀 Optimized ReactJS applications improving API response efficiency by **40%**
+- 📉 Reduced component re-renders by **40%** using React Hooks and memoization
+- ⚡ Achieved **25% faster page interaction time** through performance profiling
+- 💾 Implemented advanced caching strategies for API responses
+- 🏆 Created reusable performant UI components adopted as team standards
+
+**Tech Stack:** React, JavaScript (ES6+), Redux, React Hooks, Performance Optimization
 
 ---
 
@@ -55,99 +142,6 @@
 | 📈 **Impact-Driven** | Focused on measurable business outcomes and ROI |
 | 🔧 **Full-Stack Mastery** | Comfortable at all levels—from database to UI components |
 | 🧠 **Strategic Thinker** | Balance short-term delivery with long-term architectural vision |
-
----
-
-## 💼 Professional Experience
-
-### **SAMSUNG R&D INSTITUTE** | Bangalore, India
-
-#### 🌟 **Software Engineer II** — SDN Cloud Solutions & Full Stack Development
-**May 2024 – Present** | End-to-End Full Stack Architecture
-
-**Promotion:** Advanced to Software Engineer II and transitioned to SDN Cloud team to pursue full-stack development.
-
-**Mission:** Led comprehensive design and delivery of a **mission-critical 5G OS deployment portal** serving field engineers globally, architecting a complete full-stack solution from frontend UI through scalable microservices to cloud infrastructure.
-
-**Frontend Excellence:**
-- 🎨 Architected **scalable React/Redux application** with Redux Saga for complex state management
-- 📦 Designed **production-grade browser caching library** improving UI load times by **35%**
-- 🧠 Developed **Markov prediction layers** for intelligent API response prefetching
-- ⚡ Engineered comprehensive performance optimizations (lazy loading, code splitting) achieving **35% TTI reduction**
-- 🔌 Integrated **WebSocket technology** for real-time bidirectional communication
-
-**Backend Mastery:**
-- 🏗️ Designed & delivered **Java/Spring Boot REST APIs** and scalable microservices
-- 🛡️ Architected resilient microservices with exponential-backoff retry logic, rate limiting, and circuit breakers
-- 🐍 Developed **Python REST APIs** with PostgreSQL achieving **40% data retrieval efficiency**
-- 📋 Implemented comprehensive API versioning, pagination, and filtering for large-scale operations
-
-**Infrastructure & DevOps:**
-- ☁️ Built **infrastructure-as-code (IaC)** using AWS CDK for scalable cloud provisioning
-- 🚀 Established **robust CI/CD pipelines** (Jenkins + GitHub Actions) cutting release cycles by **40%**
-- 🐳 Orchestrated **containerized microservices** on Kubernetes with structured logging and distributed tracing
-- 🐋 Configured **Docker containerization** with multi-stage builds and security scanning
-
-**Testing & Leadership:**
-- 🧪 Implemented **comprehensive testing frameworks** (Jest, JUnit) with high code coverage
-- ✅ Served as **mandatory PR approver** conducting rigorous code reviews
-- 👨‍🏫 **Mentored 3 junior engineers** in best practices and full-stack development
-- 📊 Established coding standards, security protocols, and performance benchmarks
-
-**Tech Stack:** React, Redux (RTK/Saga), TypeScript, Java, Spring Boot, Python, PostgreSQL, AWS (Cognito, Lambda, SQS, RDS, CDK), Kubernetes, Docker, Jenkins, GitHub Actions
-
----
-
-#### 🔧 **Software Engineer** — Bearer and Modem Control (Transport Protocol Layer)
-**Aug 2022 – Apr 2024** | High-Performance Network Systems
-
-**Mission:** Developed high-performance network transport applications as full-time engineer after college graduation.
-
-**Transport Layer Optimization:**
-- ⚡ Built **high-performance C/C++ transport applications** at TCP/IP layer in multi-threaded architecture
-- 📈 Achieved **20% latency reduction** and **15% throughput improvement** in network handovers
-- 🔍 Debugged complex network issues using GDB, resolving production incidents efficiently
-- 📡 Contributed to core telecommunications stack with **3GPP compliance**
-
-**Internal Tools & Automation:**
-- 🔧 Enhanced **Python-based Log Parser tool** automating issue analysis workflows
-- 📊 Supported 3+ teams adopting the logging infrastructure
-- 📈 Created advanced data visualization dashboards for complex network telemetry
-
-**Tech Stack:** C/C++, Python, TCP/IP, Multi-threaded Programming, GDB, 3GPP Specifications
-
----
-
-### **LAKSHYA TECHNOLOGIES** | Remote
-
-#### 🎨 **React Frontend Optimization Internship**
-**Aug 2021 – Oct 2021** | Frontend Development
-
-- 🚀 Optimized ReactJS applications improving API response efficiency by **40%**
-- 📉 Reduced component re-renders by **40%** using React Hooks and memoization
-- ⚡ Achieved **25% faster page interaction time** through performance profiling
-- 💾 Implemented advanced caching strategies for API responses
-- 🏆 Created reusable performant UI components adopted as team standards
-
-**Tech Stack:** React, JavaScript (ES6+), Redux, React Hooks, Performance Optimization
-
----
-
-### **SAMSUNG R&D INSTITUTE** | Bangalore, India
-
-#### 🎓 **Software Engineer Intern** — Network Systems & Internal Tools
-**Jan 2022 – Jul 2022** | Backend Development & Automation Tools
-
-**Mission:** Contributed to telecommunications R&D initiatives during college final year internship, developing critical automation tools.
-
-**Key Contributions:**
-- 🛠️ Designed **Python-based Log Parser tool** automating complex issue analysis
-- ⏱️ Reduced debugging time by **30%** with intelligent log correlation
-- 📢 Tool adoption recommended by leadership for **3 additional teams**
-- 📊 Created intuitive data visualization dashboards for complex network telemetry
-- 📚 Gained foundational knowledge in telecommunications domain and network protocols
-
-**Tech Stack:** Python, Data Processing, Analytics, Logging Systems, 3GPP Specifications
 
 ---
 
