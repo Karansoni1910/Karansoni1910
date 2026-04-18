@@ -402,6 +402,22 @@ Comprehensive collection of Low-Level Design patterns, principles, and implement
 
 ---
 
+### 🚀 **Competitive Programming & DSA Repository**
+
+Curated collection of Data Structures, Algorithms, and competitive programming solutions. This repository demonstrates my problem-solving skills and algorithmic thinking across multiple difficulty levels.
+
+**Topics Covered:**
+- 📊 **Data Structures:** Arrays, Linked Lists, Trees, Graphs, Hash Tables, Heaps
+- 🧮 **Algorithms:** Sorting, Searching, Dynamic Programming, Greedy, Backtracking
+- 🎯 **Problem Solving:** 600+ problems solved across multiple platforms
+- 📈 **Optimization:** Time complexity analysis, space optimization techniques
+
+**Why it matters:** Strong DSA fundamentals are essential for technical interviews and building efficient solutions at scale.
+
+[Explore DSA Repository](https://github.com/Karansoni1910/Competitive-Programming/) → Ace your interviews! 🏆
+
+---
+
 ## 🎯 What I'm Looking For
 
 I'm interested in opportunities where I can:
