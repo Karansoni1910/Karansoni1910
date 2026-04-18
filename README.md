@@ -25,39 +25,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karansoni1910&theme=github-dark&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karansoni1910&theme=github_dark&column=8&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-</p>
-
-# 👋 Hi Everyone! I'm **Karan Soni** — Senior Full Stack Software Engineer & Tech Innovator
-
-> **Senior Full Stack Software Engineer** | React · Spring Boot · Java · AWS · Cloud Infrastructure | **3.5+ years @ Samsung R&D**
-
-[![Hello programmer Welcome to my profile ](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Karansoni1910)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-soni-a021b4188/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karansoni146.ks@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/karan1910/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/karansoni146ks?tab=activity)
-
----
-
-## 📊 GitHub Analytics & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karansoni1910&show_icons=true&hide_border=true&title_color=FF00FF&theme=github_dark&show_owner=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karansoni1910&layout=compact&hide=html&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karansoni1910&theme=github-dark&hide_border=true" alt="GitHub Streak" width="60%" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karansoni1910&column=8&margin-w=15&margin-h=15&theme=github_dark" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 🎯 About Me — Who I Am
@@ -69,8 +36,8 @@
 - 🎓 **Education:** B.E. Electronics & Communications Engineering (Bangalore Institute of Technology, 2022) — GPA: 7.8/10.0
 - 💼 **Current Role:** Software Engineer II — SDN Cloud Solutions & Full Stack Development (May 2024 – Present)
 - 💰 **Business Impact:** **$50M+ annual operational savings** through automation and optimization
-- 👥 **Leadership:** Mentored **20+ junior engineers** in full-stack development and best practices
-- 💻 **Problem-Solving:** Solved **500+ competitive programming problems**
+- 👥 **Leadership:** Mentored **3 junior engineers** in full-stack development and best practices
+- 💻 **Problem-Solving:** Solved **600+ competitive programming problems**
 - 🏆 **Status:** Mandatory PR Approver — Trusted technical leader ensuring code quality and security standards
 
 ### 🌟 Key Attributes
@@ -83,23 +50,6 @@
 | 📈 **Impact-Driven** | Focused on measurable business outcomes and ROI |
 | 🔧 **Full-Stack Mastery** | Comfortable at all levels—from database to UI components |
 | 🧠 **Strategic Thinker** | Balance short-term delivery with long-term architectural vision |
-
----
-
-## 🌟 Professional Highlights — What I've Achieved
-
-### 💼 **Career Achievements at a Glance**
-
-| Achievement | Impact | Timeline |
-|------------|--------|----------|
-| 💰 **$50M in Annual Savings** | Through automation, optimization, and infrastructure initiatives | Current |
-| ⚡ **40% Faster Releases** | Via CI/CD infrastructure automation and DevOps excellence | 2024-Present |
-| 📊 **35% UI Performance Gain** | Frontend optimization, caching libraries, and code splitting | 2024-Present |
-| 🚀 **40% API Speed Improvement** | Backend optimization, database tuning, and microservices design | 2024-Present |
-| 🎯 **99.9%+ Uptime** | Serving millions of global field engineers reliably | 2024-Present |
-| 🏆 **Multiple Award Winner** | Spot Awards, Samsung Excellence, Professional Competency | 2024-2025 |
-| 👥 **20+ Engineers Mentored** | Technical guidance and knowledge transfer across teams | 2024-Present |
-| ⚙️ **5G OS Portal Launched** | Mission-critical deployment platform serving global field engineers | 2024 |
 
 ---
 
@@ -125,7 +75,6 @@
 - 🏗️ Designed & delivered **Java/Spring Boot REST APIs** and scalable microservices
 - 🛡️ Architected resilient microservices with exponential-backoff retry logic, rate limiting, and circuit breakers
 - 🐍 Developed **Python REST APIs** with PostgreSQL achieving **40% data retrieval efficiency**
-- 🤖 Integrated **LLM tooling (Ollama + LangChain4j)** improving developer productivity by **25%**
 - 📋 Implemented comprehensive API versioning, pagination, and filtering for large-scale operations
 
 **Infrastructure & DevOps:**
@@ -137,7 +86,7 @@
 **Testing & Leadership:**
 - 🧪 Implemented **comprehensive testing frameworks** (Jest, JUnit) with high code coverage
 - ✅ Served as **mandatory PR approver** conducting rigorous code reviews
-- 👨‍🏫 **Mentored 20+ junior engineers** in best practices and full-stack development
+- 👨‍🏫 **Mentored 3 junior engineers** in best practices and full-stack development
 - 📊 Established coding standards, security protocols, and performance benchmarks
 
 **Tech Stack:** React, Redux (RTK/Saga), TypeScript, Java, Spring Boot, Python, PostgreSQL, AWS (Cognito, Lambda, SQS, RDS, CDK), Kubernetes, Docker, Jenkins, GitHub Actions
@@ -206,21 +155,21 @@ JavaScript (ES6+, TypeScript) | Java | Python | C/C++ | SQL | HTML5/CSS3 | Bash
 
 ### 🎨 **Frontend Development**
 ```
-React.js • Redux (RTK/Saga) • Vue.js 3 • Material-UI • AG Grid
+React.js • Redux (RTK/Saga) • Material-UI
 React Native • WebSockets • WebWorkers • Service Workers
 Performance Optimization • Lazy Loading • Code Splitting • Browser APIs
 ```
 
 ### ⚙️ **Backend & Microservices**
 ```
-Spring Boot • Spring Cloud • REST APIs • GraphQL • Microservices Architecture
+Spring Boot • REST APIs • Microservices Architecture
 Python FastAPI • Node.js • Express.js • Async Programming
 SOLID Principles • Design Patterns • Event-Driven Architecture
 ```
 
 ### ☁️ **Cloud & Infrastructure**
 ```
-AWS: EC2 • S3 • Lambda • API Gateway • RDS • DynamoDB • SQS • SNS • Cognito • CDK
+AWS: EC2 • S3 • Lambda • API Gateway • DynamoDB • SES • Cognito • CDK
 Kubernetes (K8s) • Docker • Docker Compose • Container Orchestration
 Infrastructure as Code (IaC) • CloudFormation
 ```
@@ -266,7 +215,7 @@ Python FastAPI • Node.js • Express.js
 
 ### ☁️ **Cloud & Infrastructure**
 ```
-AWS: Cognito • Lambda • SQS • API Gateway • RDS • S3 • CDK • CloudFormation
+AWS: Cognito • Lambda • SES • API Gateway • S3 • CDK • CloudFormation
 Kubernetes • Docker • Docker Compose
 ```
 
@@ -278,7 +227,7 @@ Automated Testing • CI/CD Pipelines
 
 ### 🗄️ **Databases & Data**
 ```
-PostgreSQL • MongoDB • Redis
+MySQL • MongoDB • Redis
 Connection Pooling • Query Optimization • Data Modeling
 ```
 
@@ -290,8 +239,8 @@ Browser Compatibility Testing • Test-Driven Development (TDD)
 
 ### 🤖 **AI/ML & Advanced Technologies**
 ```
-LLM Integration (Ollama, LangChain4j) • RAG Frameworks
-pgvector • Scikit-Learn • TensorFlow
+RAG Frameworks • MCP Servers • Agentic workflows
+Scikit-Learn • TensorFlow
 ```
 
 ### 🎯 **Core Concepts & Specializations**
@@ -319,7 +268,7 @@ A comprehensive full-stack web application automating 5G image deployment across
 - 🚀 **Infrastructure:** AWS CDK infrastructure-as-code, Kubernetes orchestration for container management, Jenkins CI/CD pipelines
 - 💰 **Business Impact:** $50M+ annual operational savings through automation and reduced manual deployment errors
 
-**Technologies:** React 18, Redux Toolkit, TypeScript, Spring Boot 3.0, PostgreSQL, AWS Lambda, Kubernetes, Docker
+**Technologies:** React 18, Redux Toolkit, TypeScript, Spring Boot, AWS Lambda, Kubernetes, Docker
 
 ---
 
@@ -394,7 +343,7 @@ IoT project demonstrating real-time gesture recognition and interactive control 
 - ⚡ **Real-time:** Responsive control with instant feedback (<100ms latency)
 - 🧠 **ML:** Machine learning-based gesture classification using TensorFlow
 
-**Technologies:** Arduino, C/C++, OpenCV, TensorFlow Lite, Python
+**Technologies:** Arduino, C/C++, TensorFlow Lite, Python
 
 ---
 
@@ -424,7 +373,7 @@ A responsive, modern portfolio website showcasing technical capabilities with en
 ### 🌟 **Honors & Key Achievements**
 - 🔒 **Mandatory PR Approver** — Trusted technical leader ensuring code quality, security, and architectural standards
 - 💻 **500+ Competitive Programming Problems** — Strong problem-solving skills and algorithmic thinking
-- 👥 **Mentor to 20+ Engineers** — Fostering team growth, knowledge transfer, and professional development
+- 👥 **Mentor to 3 Engineers** — Fostering team growth, knowledge transfer, and professional development
 - 🚀 **Multiple Production Releases** — Mission-critical features serving millions of global users
 - 📈 **$50M+ Business Impact** — Direct contribution to organizational cost savings and efficiency
 
@@ -438,7 +387,7 @@ A responsive, modern portfolio website showcasing technical capabilities with en
 - **Duration:** Aug 2018 – Jul 2022
 - **GPA:** 7.8 / 10.0
 - **Relevant Coursework:** 
-  - Data Structures & Algorithms
+  - Data Structures & Algorithms in C++ & Java
   - Operating Systems & System Design
   - Computer Networks & TCP/IP
   - Database Management Systems
@@ -493,7 +442,7 @@ Promoted to Software Engineer II, transitioned to SDN Cloud team. Architecting c
 | **Full-Stack Mastery** | Architect complete systems: database schema → business logic → UI components |
 | **Performance Obsession** | Every optimization backed by metrics; 35-40% performance gains demonstrated |
 | **Production Excellence** | Systems serving millions with 99.9%+ uptime under demanding conditions |
-| **Team Leadership** | Mentor 20+ engineers while maintaining mandatory PR approver status |
+| **Team Leadership** | Mentor 3 engineers while maintaining mandatory PR approver status |
 | **Business Impact** | $50M+ organizational savings through strategic technical decisions |
 | **Rapid Learning** | Master new technologies quickly; adopted LLMs, Kubernetes, AWS CDK rapidly |
 | **Code Quality** | Trusted PR approver ensuring architectural consistency and security standards |
@@ -526,126 +475,11 @@ I'm always excited to discuss:
 - 💼 **LinkedIn:** [linkedin.com/in/karan-soni-a021b4188](https://www.linkedin.com/in/karan-soni-a021b4188/)
 - 🐙 **GitHub:** [github.com/Karansoni1910](https://github.com/Karansoni1910)
 - 📧 **Email:** [karansoni146.ks@gmail.com](mailto:karansoni146.ks@gmail.com)
-- 📱 **LeetCode:** [leetcode.com/u/karan1910](https://leetcode.com/u/karan1910/) — 500+ problems solved
+- 📱 **LeetCode:** [leetcode.com/u/karan1910](https://leetcode.com/u/karan1910/) — 600+ problems solved
 - 📚 **GeeksforGeeks:** [geeksforgeeks.org/profile/karansoni146ks](https://www.geeksforgeeks.org/profile/karansoni146ks?tab=activity)
 
 **Feel free to reach out! I'm always happy to connect with fellow engineers, innovators, and potential collaborators.** 🤝
 
 <p align="center">
   <strong>Made with ❤️ by Karan Soni | Last Updated: April 2026</strong>
-</p>
-
-### **Phase 3: Network Systems Engineering** (Aug 2022 – Apr 2024)
-Full-time employment as Software Engineer in Bearer and Modem Control team, building high-performance C/C++ network transport applications at TCP/IP layer with deep expertise in telecommunications protocols.
-
-### **Phase 4: Full Stack & Cloud Platform Transformation** (May 2024 – Present)
-Promoted to Software Engineer II, transitioned to SDN Cloud team architecting complete end-to-end systems combining deep technical knowledge with modern cloud-native practices and full-stack development. Leading teams and mentoring engineers.
-
----
-
-## 💡 What Makes Me Different
-
-| Aspect | My Approach |
-|--------|-------------|
-| **Full-Stack Mastery** | Comfortable architecting from database schema to UI components |
-| **Performance Obsession** | Every line of code optimized for real-world performance metrics |
-| **Production Experience** | Systems serving millions of users with 99.9%+ uptime |
-| **Team Leadership** | Mentoring 20+ engineers while maintaining high coding standards |
-| **Business Impact** | Focused on measurable outcomes ($50M+ in organizational savings) |
-| **Continuous Learning** | Rapidly master emerging technologies and frameworks |
-| **Code Quality** | Mandatory PR approver ensuring excellence across the codebase |
-
----
-
-## 🔗 Let's Connect!
-
-- 💼 **LinkedIn:** [linkedin.com/in/karan-soni-a021b4188](https://www.linkedin.com/in/karan-soni-a021b4188/)
-- 🐙 **GitHub:** [github.com/Karansoni1910](https://github.com/Karansoni1910)
-- 📧 **Email:** [karansoni146.ks@gmail.com](mailto:karansoni146.ks@gmail.com)
-- 📱 **LeetCode:** [leetcode.com/u/karan1910](https://leetcode.com/u/karan1910/)
-- 📚 **GeeksforGeeks:** [geeksforgeeks.org/profile/karansoni146ks](https://www.geeksforgeeks.org/profile/karansoni146ks?tab=activity)
-
-Whether you're interested in:
-- 💼 Full-stack development opportunities
-- 🤝 Technical partnerships or collaborations
-- 💬 Discussions about architecture, performance, or cloud technologies
-- 📚 Mentoring opportunities
-
-**Feel free to reach out! I'm always happy to connect with fellow engineers and innovators.**
-
----
-
-## 📊 GitHub Stats & Analytics
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karansoni1910&theme=gruvbox&column=8&margin-w=15&margin-h=15&no-frame=false" alt="GitHub Trophies"/>
-</p>
-
-### 💻 Most Used Languages
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karansoni1910&layout=compact&langs_count=8&theme=gruvbox&hide_border=false" alt="Top Languages"/>
-</p>
-
-### 📈 GitHub Statistics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karansoni1910&show_icons=true&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karansoni1910&theme=gruvbox&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-### 📊 GitHub Profile Summary
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karansoni1910&theme=gruvbox" alt="Profile Summary"/>
-</p>
-
----
-
-## 🎯 Quick GitHub Stats
-- 📊 **Total Contributions:** 1000+
-- 🎓 **Public Repositories:** 20+
-- ⭐ **Stars Received:** 150+
-- 👥 **GitHub Followers:** Growing community
-- 🏅 **Consistent Contributor** throughout the year
-
----
-
----ter">
-  <img src="https://github.com/Karansoni1910/Karansoni1910/blob/main/Developer.gif" width="500px">
-</p>
-
-### Hi Everyone, I am Karan Soni, just another Programmer here ! <img src="https://github.com/Karansoni1910/Karansoni1910/blob/main/Developer.gif" width="40px">
-
-- I’m 🎯 focusing on Competitive Programming.
-- I am very adaptable to new 💻 software technologies ,I enjoy learning new things.
-- How to reach me: 📩 karansoni146.ks@gmail.com
-- Pronouns: He/Him 🧔‍♂️ 
-- Fav Quote: 💰 Money is like a 🤔 sixth sense without which you cannot make a complete use of the other five.
-
-[![Hello programmer Welcome to my profile ](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Karansoni1910)
-
-
-### :zap: GitHub Trophies 🏆
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Karansoni1910&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
-  </a>
-</p> 
-
-### :zap: Most used languages ❤️
-<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Karansoni1910&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-        <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karansoni1910&theme=dracula" alt=""><br>
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karansoni1910&theme=dracula">
-</a>
-</p>
-
-### :zap: GitHub Stats
-<p align="center" style="width:90%">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Karansoni1910&show_icons=true&hide_border=true&show_owner=true&title_color=FF00FF&theme=dark&custom_title=Hello Programiz! &layout=compact" /><br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Karansoni1910&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karansoni1910&theme=monokai" />
 </p>
